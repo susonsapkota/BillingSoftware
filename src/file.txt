@@ -1,0 +1,4 @@
+phone,200,15
+laptop,900,15
+HDD,200,33
+Keyboard,600,99
